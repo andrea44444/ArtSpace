@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="tituloObra">Nombre Obra</string>
+    <string name="artista">Artista X</string>
+    <string name="año">(Año)</string>
+
+    <string name="tituloObra1">La Gioconda</string>
+    <string name="artista1">Leonardo Da Vinci</string>
+    <string name="año1">(1519)</string>
+
+    <string name="tituloObra2">La joven de la perla</string>
+    <string name="artista2">Johannes Vermeer</string>
+    <string name="año2">(1665)</string>
+
+    <string name="tituloObra3">El beso</string>
+    <string name="artista3">Gustav Klimt</string>
+    <string name="año3">(1908)</string>
+</resources>

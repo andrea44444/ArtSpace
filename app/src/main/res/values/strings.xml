@@ -1,9 +1,4 @@
 <resources>
-    <string name="app_name">ArtSpace</string>
-    <string name="tituloObra">Nombre Obra</string>
-    <string name="artista">Artista X</string>
-    <string name="año">(Año)</string>
-
     <string name="tituloObra1">La Gioconda</string>
     <string name="artista1">Leonardo Da Vinci</string>
     <string name="año1">(1519)</string>

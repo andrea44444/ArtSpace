@@ -76,6 +76,9 @@ fun Elementos(modifier: Modifier = Modifier) {
             artista = stringResource(id = R.string.artista3)
             anio = stringResource(id = R.string.año3)
         }
+        0 ->{
+            obraActual= 3
+        }
         else -> {
             obraActual= 1
         }
